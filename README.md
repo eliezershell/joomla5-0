@@ -13,7 +13,7 @@ Siga estas etapas para instalar o Docker em seu sistema:
 
 2. **Execute o script de instalação:**
    ```
-   cd joomla5-0; chmod +x instalador_Joomla5.0.sh; ./instalador_Joomla5.0
+   cd joomla5-0; chmod +x instalador_Joomla5.0.sh; ./instalador_Joomla5.0.sh
    ```
    
 ## Notas Adicionais
