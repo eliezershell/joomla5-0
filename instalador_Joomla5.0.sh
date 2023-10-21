@@ -81,7 +81,7 @@ if [ $? -gt 0 ]; then
         echo "Erro ao mover arquivo autoload_psr4.php para o diretório correto!"; exit 0
 fi
 
-sudo chmod 777 /var/www/html
+sudo chmod +w /var/www/html
 if [ $? -gt 0 ]; then
         echo "Erro ao dar permissões 777 em /var/www/html!"; exit 0
 fi
